@@ -1,3 +1,24 @@
+/*
+    Autor: @Ruan Necker
+    Link do Repositório: https://github.com/necker1400/path-of-stones
+    Como Usar
+
+    Compilar o Programa:
+        Compile o arquivo Java com o seguinte comando:
+
+        javac Saltos.java
+
+    Executar o Programa:
+        (execute o programa passando dois números binários como argumentos pela linha de comando)
+
+        java Saltos m1111m
+
+
+    O programa retornará o número de maneiras de cruzar o rio, seguindo as regras do problema.
+
+        Resultado esperado: Existem 13 maneiras de cruzar o rio.
+    */
+    
 import java.util.HashMap;
 import java.util.Map;
 
